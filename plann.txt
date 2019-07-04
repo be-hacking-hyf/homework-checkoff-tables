@@ -1,0 +1,18 @@
+when internet
+  :egg: :hatching_chick: :hatched_chick:
+    instead of seedling, dash, fire
+  :?: instead of :purse:
+  :chicken: replaces :star2:
+  replace?
+    :question:
+    :wavy_dash:
+    :warning:
+  the dictionary
+    move it after "notifications"
+    include everything
+    and ```:emoji:``` next to :emoji:
+  rename repo to homework
+  what about things that only have one step?
+    stick with green heart?
+
+
