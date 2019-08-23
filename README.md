@@ -4,7 +4,6 @@ This little repo is your guide to homework submission at Hack Your Future Belgiu
 
 ### Index
 * [check off tables](#check-off-tables)
-* [assignment priorities](#assignment-priorities)
 * [notifications](#notifications)
 * [emoji dictionary](#emoji-dictionary)
 * [checking off homework](./google-sheet.md)
@@ -27,23 +26,6 @@ But don't sweat too hard! These tables aren't so complicated after all. On the l
 [TOP](#homework-check-off-tables)
 
 ---
-
-
-## Assignment Priorities
-
-
-Not all assignments are created equal.  These 3 emoji's will help you figure out how to spend your study time as effectively as possible:
-* :egg: ```:egg:``` - these assignments are required, they cover the base skills you'll need to move on.
-* :hatching_chick: ```:hatching_chick:``` - do your best to start these exercises. you don't need to finish or master them but getting the main idea will prepare you for success
-* :hatched_chick: ```:hatched_chick:``` - Have you finished all the :egg:'s and :hatching_chick:'s? push yourself with these challenges!
-
-Each week's homework, project, or other assignment will usually have multiple pieces.  Some are required, and others are not.  To help you, your coach and peers know how you're progressing you'll be checking off the different levels of assignment separately.  
-
-
-[TOP](#homework-check-off-tables)
-
----
-
 
 ## notifications
 
@@ -99,10 +81,7 @@ Here are the key emoji's you and the coaches will use to communicate on the tabl
 | :exclamation: ```:exclamation:``` | coaches | homework has a few issues, read the comments and keep in touch |
 | :shipit: ```:shipit:``` | coaches | there's an answer to your question, in the comments and/or a pull request     | 
 | :chicken: ```:chicken:``` | coaches | you did something awesome |
-| :green_heart: ```:green_heart:``` | both | used to mark individual assignments as complete (in homework repos) |
-| :egg: ```:egg:``` | both | used to check off all required exercises (in the class wiki) |
-| :hatching_chick: ```:hatching_chick:``` | both | used to check off all intermediate exercises (in the class wiki) |
-| :hatched_chick: ```:hatched_chick:``` | both | used to check off all challenge exercises (in the class wiki) |
+| :green_heart: ```:green_heart:``` | both | used to mark homework as complete |
 | :balloon: ```:balloon:``` | both | put this in front of a new comment you post, remove it from comments you've addressed  |
 
 There are [mmaannyy mmoorree eemmoojjiiss](https://gist.github.com/rxaviers/7360908) you can use, but they're all just for fun!
