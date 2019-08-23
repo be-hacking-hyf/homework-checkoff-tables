@@ -7,9 +7,7 @@ This little repo is your guide to homework submission at Hack Your Future Belgiu
 * [assignment priorities](#assignment-priorities)
 * [notifications](#notifications)
 * [emoji dictionary](#emoji-dictionary)
-* The Two Types of Tables
-    * [overall progress](./class-wiki.md)
-    * [individual exercises](./homework-repos.md)
+* [checking off homework](./google-sheet.md)
 
 ---
 ---
