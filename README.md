@@ -13,7 +13,7 @@ This little repo is your guide to homework submission at Hack Your Future Belgiu
 
 ## Check-Off Tables
 
-The main tool for keeping track of your homework is the _check-off table_. You will use them to track your overall progress in the class wiki and in your homework repository for feedback on individual assignments. You will be filling out a lot of these over the next 6 months. :sweat_drops:
+The main tool for keeping track of your homework is the _check-off table_. You will use them to track your overall progress in the class wiki. You will be filling out a lot of these over the next 6 months. :sweat_drops:
 
 But don't sweat too hard! These tables aren't so complicated after all. On the left side you indicate what you have finished and post any extra comments, on the right side the coach will check off your homework and leave you any extra comments
 
